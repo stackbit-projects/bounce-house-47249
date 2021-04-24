@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: We are a family owned business in Augusta that loves having fun together.
-image: images/pleasant-aluminum.jpg
+image: images/pink-tortoise.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
