@@ -2,7 +2,7 @@
 title: About Us
 subtitle: We are a family owned business in Augusta that loves having fun together.
 image: images/pink-tortoise.jpg
-image_alt: A man taking a picture
+image_alt: S
 seo:
   title: About Us
   description: We are a family owned business in Augusta that loves having fun together.
