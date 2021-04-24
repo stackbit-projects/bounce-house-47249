@@ -39,9 +39,9 @@ sections:
           Our rental prices are great compared to other providers in the
           surrounding area.
       - title: Great Selection
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          If we don't have the rental you are looking for, let us know and we'll
+          do our darndest to find it and deliver in time for your special event.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
