@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: About Us
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Family owned 
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
