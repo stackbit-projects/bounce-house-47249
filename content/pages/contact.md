@@ -7,7 +7,7 @@ sections:
     content: >-
       Hi there! Thank you so much for your interest in working together. Please
       fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      [example@example.com](mailto:mailto:fun@bouncehouseaugusta.com?subject=Reservation).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
