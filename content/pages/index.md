@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Life is better with a bounce house!
     content: |
-      Bounce houses and slip and slides in Augusta, Georgia
+      Bounce houses and slip and slide rental in Augusta, Georgia
     actions:
       - label: Reserve Your Bounce House
         url: /contact
