@@ -31,11 +31,10 @@ seo:
       relativeUrl: true
 layout: page
 ---
+We started Bounce House Augusta in 2021, because we want families in the CSRA to have fun together.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+We believe that the most precious moments in life are centered around family. Whether gathered around the dinner table, or having a fire or a backyard picnic. 
 
 *Thank You for reading!*
