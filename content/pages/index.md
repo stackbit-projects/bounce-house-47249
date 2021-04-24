@@ -15,7 +15,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Rent some fun
-    subtitle: An optional subtitle of the section
+    subtitle: Our bounce houses available to rent
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
