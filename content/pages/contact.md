@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Reserve Your Bounce House
 hide_title: false
 sections:
   - section_id: contact-form
