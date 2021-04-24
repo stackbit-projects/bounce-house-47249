@@ -14,7 +14,7 @@ seo:
       value: About Us
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: About our family owned bounce house business
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
