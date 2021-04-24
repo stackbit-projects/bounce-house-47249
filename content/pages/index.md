@@ -8,7 +8,7 @@ sections:
     content: |
       Bounce houses and slip and slides in Augusta, Georgia
     actions:
-      - label: Let's talk
+      - label: Reserve Your Bounce House
         url: /contact
         style: button
   - section_id: latest-projects
