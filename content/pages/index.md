@@ -54,7 +54,7 @@ sections:
         content: >-
           I rented a bounce house for my son's birthday party in February.
           Bounce House Augusta made it extra special.
-      - author: Aubrey Hoover
+      - author: Aubrey H.
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: I love you guys!!!
