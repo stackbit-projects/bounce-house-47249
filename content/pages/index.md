@@ -52,9 +52,8 @@ sections:
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          I rented a bounce house for my son's birthday party in February.
+          Bounce House Augusta made it extra special.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
