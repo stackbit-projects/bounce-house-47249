@@ -31,10 +31,9 @@ sections:
           We will come to any location in the CSRA (including Augusta, Evans and
           Grovetown) and do the setup for you. Just show us where the outlet is!
       - title: Sanitized Rentals
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          We clean and sanitize our bounce houses completely after each use.
+          Rest easy knowing kids can jump safely.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
