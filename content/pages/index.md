@@ -35,10 +35,9 @@ sections:
           We clean and sanitize our bounce houses completely after each use.
           Rest easy knowing kids can jump safely.
       - title: Great Rates
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Our rental prices are great compared to other providers in the
+          surrounding area.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
