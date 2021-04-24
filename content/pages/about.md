@@ -5,7 +5,7 @@ image: images/about.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
-  description: This is the about us page
+  description: We are a family owned business in Augusta that loves having fun together.
   extra:
     - name: 'og:type'
       value: website
