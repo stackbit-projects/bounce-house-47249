@@ -38,7 +38,7 @@ sections:
         content: >
           Our rental prices are great compared to other providers in the
           surrounding area.
-      - title: Service title
+      - title: Great Selection
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
