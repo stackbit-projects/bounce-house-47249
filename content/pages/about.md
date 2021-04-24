@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: We are a family owned business in Augusta
+subtitle: We are a family owned business in Augusta.
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
