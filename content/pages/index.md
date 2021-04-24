@@ -48,7 +48,7 @@ sections:
     subtitle: These customers love us
     col_number: three
     testimonials:
-      - author: Sean Salazar
+      - author: Sean S.
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
