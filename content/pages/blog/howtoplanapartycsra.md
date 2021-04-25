@@ -8,7 +8,7 @@ thumb_image_alt: A backyard party
 image: images/12.jpg
 image_alt: A backyard party
 seo:
-  title: Why Fonts Matter
+  title: How to plan a party in Augusta
   description: >-
     Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
     primis
