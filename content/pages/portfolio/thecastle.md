@@ -1,6 +1,6 @@
 ---
 title: The Castle
-subtitle: A perfect
+subtitle: A perfect 
 date: '2019-05-10'
 thumb_image: images/castle1.png
 thumb_image_alt: 'White, black, and red shoe sole'
