@@ -16,7 +16,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Why Fonts Matter
+      value: How to plan a party in Augusta
       keyName: property
     - name: 'og:description'
       value: >-
