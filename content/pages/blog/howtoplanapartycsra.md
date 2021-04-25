@@ -41,7 +41,9 @@ layout: post
 
 The fundamentals of throwing a party are easy. Get a killer playlist, pick up a keg of beer, and buy a ton of snacks. Wear a Hawaiian shirt. But the best parties are the ones where the host makes an effort to really engage and impress their guests. And that takes a little extra work. Here are 5 tips to help you throw the best party in Augusta, Aiken, and Evans.
 
-## Choose your venue 
+## Choose your venue
+
+There are great 
 
 ## Get an estimate for catering 
 
