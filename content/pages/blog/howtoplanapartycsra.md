@@ -2,7 +2,7 @@
 title: How to plan a party in the CSRA
 excerpt: >-
   Tips for planning a partyin the CSRA.
-date: '2019-03-27'
+date: '2021-03-27'
 thumb_image: images/12_thumb.jpg
 thumb_image_alt: A pile of books on the table
 image: images/12.jpg
