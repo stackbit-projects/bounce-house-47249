@@ -49,4 +49,4 @@ The fundamentals of throwing a party are easy. Get a killer playlist, pick up a 
 
 ## Find an alcohol sponsor 
 
-Choose decorations and centerpieces
+## Choose decorations and centerpieces
