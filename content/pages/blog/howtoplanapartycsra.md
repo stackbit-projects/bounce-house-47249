@@ -1,5 +1,5 @@
 ---
-title: How to throw a party in Augusta
+title: How to throw a party in Augusta Ga
 excerpt: >-
   Tips for planning a party in the CSRA.
 date: '2021-04-24'
