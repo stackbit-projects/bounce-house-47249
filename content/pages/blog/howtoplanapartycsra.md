@@ -43,7 +43,7 @@ The fundamentals of throwing a party are easy. Get a killer playlist, pick up a 
 
 ## Choose your venue
 
-There are great venues in the CSRA re
+There are great venues to have a party all over the CSRA.
 
 ## Get an estimate for catering 
 
