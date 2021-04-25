@@ -1,7 +1,7 @@
 ---
 title: How to plan a party in the CSRA
 excerpt: >-
-  Tips for planning a partyin the CSRA.
+  Tips for planning a party in the CSRA.
 date: '2021-04-24'
 thumb_image: images/12_thumb.jpg
 thumb_image_alt: A backyard party
