@@ -10,7 +10,7 @@ image_alt: A backyard party
 seo:
   title: How to plan a party in Augusta
   description: >-
-    Tips for planning a backyard part in Augusta, Evans, 
+    Tips for planning a backyard part in Augusta, Evans, and Aiken
   extra:
     - name: 'og:type'
       value: article
