@@ -8,7 +8,7 @@ thumb_image_alt: A backyard party
 image: images/12.jpg
 image_alt: A backyard party
 seo:
-  title: How to plan a party in Augusta
+  title: How to throw a party in Augusta
   description: >-
     Tips for planning a backyard party in Augusta, Evans, and Aiken.
   extra:
