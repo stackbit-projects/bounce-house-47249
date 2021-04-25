@@ -43,10 +43,10 @@ The fundamentals of throwing a party are easy. Get a killer playlist, pick up a 
 
 ## Choose your venue 
 
-Get an estimate for catering 
+## Get an estimate for catering 
 
-Find a caterer 
+## Find a caterer 
 
-Find an alcohol sponsor 
+## Find an alcohol sponsor 
 
 Choose decorations and centerpieces
