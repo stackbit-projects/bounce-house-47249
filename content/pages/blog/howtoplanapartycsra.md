@@ -1,5 +1,5 @@
 ---
-title: How to plan a 
+title: How to plan a party in the CSRA
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
