@@ -1,6 +1,6 @@
 ---
 title: Our Selection
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Find the bounce house that's perfect for your next party
 layout_style: mosaic
 seo:
   title: Portfolio
