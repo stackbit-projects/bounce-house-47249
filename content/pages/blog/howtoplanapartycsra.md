@@ -6,7 +6,7 @@ date: '2021-04-24'
 thumb_image: images/12_thumb.jpg
 thumb_image_alt: A backyard party
 image: images/12.jpg
-image_alt: A pile of books on the table
+image_alt: A backyard party
 seo:
   title: Why Fonts Matter
   description: >-
