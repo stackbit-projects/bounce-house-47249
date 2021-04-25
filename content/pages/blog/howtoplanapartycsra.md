@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: How to plan a party in Augusta
+      value: How to throw a party in Augusta
     - name: 'twitter:description'
       value: >-
         Tips for planning a backyard party in Augusta, Evans, and Aiken.
