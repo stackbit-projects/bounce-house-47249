@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Why Fonts Matter
+      value: How to plan a party in Augusta
     - name: 'twitter:description'
       value: >-
         Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
