@@ -1,5 +1,5 @@
 ---
-title: How to plan a party in the CSRA
+title: How to plan a party in Augusta
 excerpt: >-
   Tips for planning a party in the CSRA.
 date: '2021-04-24'
