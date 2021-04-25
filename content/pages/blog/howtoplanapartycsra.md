@@ -20,8 +20,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-        primis
+        Tips for planning a backyard party in Augusta, Evans, and Aiken.
       keyName: property
     - name: 'og:image'
       value: images/12.jpg
